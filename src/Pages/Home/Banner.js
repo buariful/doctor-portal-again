@@ -1,5 +1,4 @@
 import React from 'react';
-import chair from '../../assets/images/chair.png'
 import GetBtn from '../../Shared/GetBtn';
 import './Banner.css'
 
@@ -14,7 +13,7 @@ const Banner = () => {
 
                         <GetBtn text="Get Started"></GetBtn>
                     </div>
-                    <img src={chair} alt="banner chair" className='md:w-2/5' />
+                    <img src='https://i.ibb.co/bKpR6Jp/chair.png' alt="banner chair" className='md:w-2/5' />
                 </div>
             </div>
         </div>

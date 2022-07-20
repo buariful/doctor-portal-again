@@ -1,0 +1,13 @@
+.makeAppoinment {
+    background: url(https://i.ibb.co/Mctr6f2/appointment.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.doctor-img {
+    top: -112px;
+    height: 124%;
+    max-width: 44%;
+    left: 90px;
+}
